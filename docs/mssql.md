@@ -1,6 +1,6 @@
 # MS SQL Server Storage
 Starting from v6 DbLocalizationProvider supports configurable storage.
-It has no dependency anymore on EntityFramework or EFCore, but instead developer can choose what storage suits, add it, configfure and use it.
+It has no dependency anymore on EntityFramework or EFCore, but instead the developer can choose what storage suits, add it, configure and use it.
 
 To add MSSQL storage you need to install package:
 
